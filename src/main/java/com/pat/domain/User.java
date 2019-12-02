@@ -24,5 +24,4 @@ public class User implements Serializable {
   @Column(name = "enabled", nullable = false)
   private Integer enabled = 1;
 
-  
 }
